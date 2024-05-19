@@ -11,7 +11,7 @@ The problem addressed by [Almokaoul.AI](http://almokaoul.ai/) is the multitude o
 Our project, Almokaoul.AI, mitigates these problems by introducing a comprehensive app tailored specifically for pre-seed stage entrepreneurs in Morocco. The app provides a complete overview of essential knowledge and tools, addressing various aspects of startup development. Key features include:
 
 1. **Business Model Generation**: The app offers guided assistance in creating business models.
-2. The app offers tools for generating graphs and plots based on the user's data. These visualizations which enables the entrepreneur to make informed decisions
+2. **Graphs and plots generation**: The app offers tools for generating graphs and plots based on the user's data. These visualizations which enables the entrepreneur to make informed decisions
 3. **Interactive Chatbot**: A sophisticated chatbot interacts with users to understand their needs and provide personalized guidance. Whether the user needs help with legal aspects, business model generation, or data management, the chatbot offers relevant advice and resources tailored to the Moroccan context.
 
 ## Team
