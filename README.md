@@ -93,7 +93,3 @@ To evaluate whether to use GPT-4 or the open-source Llama as the heart of our pr
     - The majority preferred the GPT-4 answer over Llama's answer, so we linked the gbt-4 with our UI
 
 ## Demo
-
-## Project structure:
-
-## Usage:
