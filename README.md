@@ -95,6 +95,7 @@ To evaluate whether to use GPT-4 or the open-source Llama as the heart of our pr
 
 ## Project Structure:
 MOUKAOUL.AI
+``` graphql
 ├── __pycache__                          
 ├── css                                  # CSS files for styling
 │   └── canvas.css                       # CSS file for the canvas element
@@ -114,5 +115,5 @@ MOUKAOUL.AI
 ├── requirements.txt                     # Python dependencies
 ├── utils.py                             # Utility functions script
 └── utils2.py                            # Additional utility functions script
-
+```
 
