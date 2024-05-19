@@ -21,10 +21,12 @@ Our project, Almokaoul.AI, mitigates these problems by introducing a comprehensi
 [Oussama QOUTI](https://www.linkedin.com/in/oussama-qouti-105bb820a/)
 
 ## Pipeline:
+This diagram shows the flow of user interactions within the Almokaoul.AI system.
+
 ```mermaid
 graph TD
   A[User Prompt] --> B[Chatbot]
-  B --> C[GPT-4 Processing]
+  B --> C[Model's Processing]
   C --> D[RAG & Web Search]
   D --> E{Response Type}
   E --> |Business Model| F[Business Model Page]
