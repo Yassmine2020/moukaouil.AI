@@ -1,0 +1,64 @@
+{
+  "Question1": "I want to build a startup fintech that provides accessible, efficient, and affordable financial services to SMEs and the underbanked population in Morocco, what might be the competitors",
+  "answer_GPT-4_1": "Potential competitors for your fintech startup in Morocco targeting SMEs and the underbanked population may include CASHPLUS, S2M, and Gini. It would be beneficial to conduct a more in-depth analysis of these companies to understand their offerings and market positioning better.",
+  "answer_llama_1": "The potential fintech competitors in Morocco include HPS, Onepay, Peaqock Financials, Inwi Money, Karny, M2M Group, and other fintech companies in Morocco. It is crucial to understand the competitive landscape and identify the unique value proposition of your fintech startup to succeed in the Moroccan fintech market. It is also essential to research and analyze the fintech companies in Morocco, their products and services, target market, and competitive strategy to gain a deeper understanding of the competitive landscape.",
+
+  "Question2": "I want to build a startup fintech that provides accessible, efficient, and affordable financial services to SMEs and the underbanked population in Morocco propose me a full business model",
+  "answer_GPT-4_2": {
+    "Customer Segments": "SMEs and the underbanked population in Morocco",
+    "Value Propositions": "Accessible, efficient, and affordable financial services tailored to the needs of SMEs and the underbanked population in Morocco",
+    "Channels": "Online platforms, mobile applications, partnerships with local businesses and organizations",
+    "Customer Relationships": "Personalized customer support, online chat services, feedback mechanisms",
+    "Revenue Streams": "Subscription fees, transaction fees, partnership commissions",
+    "Key Resources": "Technology infrastructure, financial expertise, regulatory compliance knowledge",
+    "Key Activities": "Developing and maintaining fintech platforms, customer acquisition and retention, regulatory compliance",
+    "Key Partnerships": "Local banks, government agencies, business associations, technology providers",
+    "Cost Structure": "Technology development costs, marketing expenses, regulatory compliance costs"
+  },
+  "answer_llama_2": {
+      "Customer Segments": [
+          "Small and Medium-Sized Enterprises (SMEs)",
+          "Underbanked population"
+      ],
+      "Value Propositions": [
+          "Accessible, efficient, and affordable financial services",
+          "Personalized financial solutions tailored to SMEs and underbanked populations"
+      ],
+      "Channels": [
+          "Mobile banking",
+          "Online banking",
+          "Agent networks",
+          "Partnerships with existing financial institutions"
+      ],
+      "Customer Relationships": [
+          "Digital engagement through mobile apps and online platforms",
+          "Personalized customer support",
+          "Regular updates and notifications"
+      ],
+      "Revenue Streams": [
+          "Transaction fees",
+          "Interest rates on loans and savings",
+          "Commission-based revenue from partnerships"
+      ],
+      "Key Resources": [
+          "Digital infrastructure",
+          "Financial expertise and analysis",
+          "Partnerships with existing financial institutions"
+      ],
+      "Key Activities": [
+          "Developing and maintaining digital infrastructure",
+          "Providing financial expertise and analysis",
+          "Establishing and maintaining partnerships"
+      ],
+      "Key Partnerships": [
+          "Existing financial institutions",
+          "Government agencies",
+          "Data analytics companies"
+      ],
+      "Cost Structure": [
+          "Digital infrastructure costs",
+          "Employee salaries and benefits",
+          "Marketing and advertising expenses"
+      ]
+  }
+}
