@@ -32,7 +32,7 @@ graph TD
   E --> |Business Model| F[Business Model Page]
   E --> |Counseling| G[Counseling Response]
   E --> |Data Plots| H[Data Visualization Page]
-
+'''
 ### The models:
 
 The core of our system consists of :
