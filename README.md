@@ -12,7 +12,7 @@ Our project, Almokaoul.AI, mitigates these problems by introducing a comprehensi
 
 1. **Business Model Generation**: The app offers guided assistance in creating business models.
 2. **Graphs and plots generation**: The app offers tools for generating graphs and plots based on the user's data. These visualizations which enables the entrepreneur to make informed decisions
-3. **Interactive Chatbot**: A sophisticated chatbot interacts with users to understand their needs and provide personalized guidance. Whether the user needs help with legal aspects, business model generation, or data management, the chatbot offers relevant advice and resources tailored to the Moroccan context.
+3. **Interactive Chatbot**: A Chatbot interacts with users to understand their needs and provide personalized guidance. Whether the user needs help with legal aspects, business model generation, or data management, the chatbot offers relevant advice and resources tailored to the Moroccan context.
 
 ## Team
 
@@ -20,7 +20,6 @@ Our project, Almokaoul.AI, mitigates these problems by introducing a comprehensi
 
 [Oussama QOUTI](https://www.linkedin.com/in/oussama-qouti-105bb820a/)
 
-## Pipeline:
 ## Pipeline:
 
 ```mermaid
@@ -43,7 +42,7 @@ The core of our system consists of :
 
 - In this segment, the following steps were taken:
 1. We feed our model by:
-    1.  **File.txt**: This file, scraped from the web, contains general information about startup aspects and information in Morocco.
+    1.  **Data_blog.txt**: This file, scraped from the web, contains general information about startup aspects and information in Morocco.
     2. **Websites and Blogs**: These sources provide insights into competitors in fintech, potential partners, and other relevant and more specified startup aspects in Morocco.
     
     Example of URLs providing general information about startups in Morocco:
@@ -93,3 +92,27 @@ To evaluate whether to use GPT-4 or the open-source Llama as the heart of our pr
     - The majority preferred the GPT-4 answer over Llama's answer, so we linked the gbt-4 with our UI
 
 ## Demo
+
+## Project Structure:
+MOUKAOUL.AI
+├── __pycache__                          
+├── css                                  # CSS files for styling
+│   └── canvas.css                       # CSS file for the canvas element
+├── images                               # Image files
+│   ├── avatar.png                       # User avatar image
+│   └── logo.png                         # Logo image
+├── metagpt                              # Notebooks related to metagpt
+│   ├── agent.ipynb                      # Jupyter notebook for the agent
+├── Source_code_model                    # Source code for models
+│   ├── gbt.ipynb                        # GPT-4 based model notebook
+│   └── llama.ipynb                      # Llama based model notebook
+│   └── comparison_experiments.json      # JSON file of the prompts for comparison
+├── app.py                               # Main application script
+├── canvas.html                          # HTML file for the Business model visualization
+├── Data.txt                             # Text file containing data scraped for more personalized answers
+├── README.md                            # Project README file
+├── requirements.txt                     # Python dependencies
+├── utils.py                             # Utility functions script
+└── utils2.py                            # Additional utility functions script
+
+
