@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>InsurAI Business Model Canvas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/canvas.css" rel="stylesheet">
+    <meta name="description" content="InsurAI Business Model Canvas for auto insurance innovation">
+    <meta name="author" content="InsurAI Team">
+    <!-- <link href='http://fonts.googleapis.com/css?family=Headland+One' rel='stylesheet' type='text/css'> -->
+    <style>
+      /* canvas.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Use 100% of the viewport height */
+}
+
+.container {
+  text-align: center;
+  width: 95%; /* Adjust width as needed */
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  background-color: #fff;
+  overflow-x: auto; /* Allows table to scroll horizontally if needed */
+}
+
+table {
+  width: 100%;
+  margin: auto; /* Center table in the div */
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+h1 {
+  color: #0056b3;
+}
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>InsurAI Business Model Canvas</h1>
+        <table id="bizcanvas" cellspacing="0" border="1">
+            <!-- Row for Key Partners and Value Propositions -->
+            <tr>
+                <td colspan="2" rowspan="2">
+                    <h4>Key Partnerships</h4>
+                    <p>{{key partnerships}}</p>
+                </td>
+                <td colspan="2">
+                    <h4>Key Activities</h4>
+                    <p>{{key activities}}</p>
+                </td>
+                <td colspan="2" rowspan="2">
+                    <h4>Value Propositions</h4>
+                    <p>{{value propositions}}</p>
+                </td>
+            </tr>
+            <!-- Row for Customer Relationships and Segments -->
+            <tr>
+                <td colspan="2">
+                    <h4>Customer Relationships</h4>
+                    <p>{{customer relationships}}</p>
+                </td>
+                <td colspan="2">
+                    <h4>Customer Segments</h4>
+                    <p>{{customer segments}}</p>
+                </td>
+            </tr>
+            <!-- Row for Key Resources and Channels -->
+            <tr>
+                <td colspan="2">
+                    <h4>Key Resources</h4>
+                    <p>{{key resources}}</p>
+                </td>
+                <td colspan="2">
+                    <h4>Channels</h4>
+                    <p>{{channels}}</p>
+                </td>
+                <td colspan="2">
+                    <h4>Cost Structure</h4>
+                    <p>{{cost structure}}</p>
+                </td>
+                <td colspan="2">
+                    <h4>Revenue Streams</h4>
+                    <p>{{revenue streams}}</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <!-- Javascript loading -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/canvas.js"></script>
+</body>
+</html>
